@@ -9,6 +9,7 @@ const usersRouter = require('./routes/users');
 
 const app = express();
 
+// second sample commit
 // sample commit
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
